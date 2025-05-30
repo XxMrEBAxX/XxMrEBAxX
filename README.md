@@ -27,7 +27,6 @@
   <img src="https://img.shields.io/badge/C%23-20232a.svg?style=for-the-badge&logo=sharp&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/C%2B%2B-07b9d8.svg?style=for-the-badge&logo=cplusplus&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/Lua-E34F26.svg?style=for-the-badge&logo=lua&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=fff" />&nbsp
 </div>
 
 <div align="center">
@@ -38,7 +37,7 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
+  <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=fff" />&nbsp
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
 </div>
