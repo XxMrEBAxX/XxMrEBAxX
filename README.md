@@ -8,7 +8,7 @@
       <img style="height: 7rem;" src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=yyy3309" />
     </a>
     <a href="https://solved.ac/profile/yyy3309">
-      <img style="height: 7rem;" src="https://mazandi.herokuapp.com/api?handle=lif&theme=dark" />
+      <img style="height: 7rem;" src="https://mazandi.herokuapp.com/api?handle=yyy3309&theme=dark" />
     </a>
   </p>
   <a href="https://github.com/xxmrebaxx">
