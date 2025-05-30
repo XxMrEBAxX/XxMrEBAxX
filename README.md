@@ -1,4 +1,25 @@
 <!--타이틀 부분-->
+<div align=center>
+  <a href="https://github.com/xxmrebaxx">
+    <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=%20MrEBA&section=header&reversal=false&fontColor=eff3fa&fontAlign=50&desc=GitHub%20Page&descAlignY=66" />
+  </a>
+  <p>
+    <a href="https://solved.ac/profile/yyy3309">
+      <img style="height: 7rem;" src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=yyy3309" />
+    </a>
+    <a href="https://solved.ac/profile/yyy3309">
+      <img style="height: 7rem;" src="https://mazandi.herokuapp.com/api?handle=lif&theme=dark" />
+    </a>
+  </p>
+  <a href="https://github.com/xxmrebaxx">
+    <img style="height: 10rem;" src="https://github-readme-stats.vercel.app/api?username=xxmrebaxx&show_icons=true&theme=dark&bg_color=DEG,0D1117,161B22&hide_border=true&include_all_commits=true" />
+  </a>
+  <a href="https://github.com/xxmrebaxx?tab=repositories">
+    <img style="height: 10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=xxmrebaxx&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
+  </a>
+</div>
+
+---
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
